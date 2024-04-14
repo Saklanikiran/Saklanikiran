@@ -4,13 +4,12 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saklanikiran&label=Profile%20views&color=0e75b6&style=flat" alt="saklanikiran" /> </p>
 
-- 🌱 I’m currently learning **Data science, Machine learning**
+- 🌱 I’m currently learning **Data Analysis, Data science, Machine learning**
 
 - 💬 Ask me about **Java, Fundamentals of programming**
 
 - 📫 How to reach me **saklanikiran94@gmail.com**
 
-- ⚡ Fun fact **I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
