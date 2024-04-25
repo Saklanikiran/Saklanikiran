@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Analysis, Data science, Machine learning**
 
-- 💬 Ask me about **Java, Fundamentals of programming**
+- 💬 Ask me about **Data analysis, Data visualization and Fundamentals of programming**
 
 - 📫 How to reach me **saklanikiran94@gmail.com**
 
