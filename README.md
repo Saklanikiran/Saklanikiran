@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">I'm curious about data science</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/imgres?q=gif%20for%20data%20analysis&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F0*tD5kEC2JYcKHH0zO.gif&imgrefurl=https%3A%2F%2Fabhijeetsinghx07.medium.com%2Fdata-analytics-in-daily-life-511b7b2ac863&docid=G3rmJNIsReZrlM&tbnid=kZtU8pDp-POscM&vet=12ahUKEwjQ1K__it6HAxXVRmwGHUrVFRMQM3oECF8QAA..i&w=801&h=372&hcb=2&ved=2ahUKEwjQ1K__it6HAxXVRmwGHUrVFRMQM3oECF8QAA)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saklanikiran&label=Profile%20views&color=0e75b6&style=flat" alt="saklanikiran" /> </p>
 
 - 🌱 I’m currently learning **Data Analysis, Data science, Machine learning**
