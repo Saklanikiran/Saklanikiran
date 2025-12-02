@@ -54,14 +54,15 @@ I work as a **Data Analyst**, where I handle:
 ---
 
 ## 🛠️ Languages & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</p>
+
+- **Python** (Pandas, NumPy)  
+- **SQL** (MySQL)  
+- **Power BI** (Dashboard development & DAX basics)  
+- **Excel** (Functions, Pivot Tables, Data Cleaning)  
+- **Data Cleaning & Transformation**  
+- **Data Visualization**  
+- **Basic Machine Learning Concepts**  
+- **Programming Fundamentals** (C, C++, Java)  
 
 ---
 
@@ -70,7 +71,4 @@ I work as a **Data Analyst**, where I handle:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saklanikiran&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saklanikiran&show_icons=true&locale=en" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saklanikiran" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sa
