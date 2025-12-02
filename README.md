@@ -66,9 +66,4 @@ I work as a **Data Analyst**, where I handle:
 
 ---
 
-## 📊 GitHub Stats  
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saklanikiran&show_icons=true&locale=en&layout=compact" />
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sa
